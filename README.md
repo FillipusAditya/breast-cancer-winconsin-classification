@@ -47,6 +47,8 @@ The project followed a standard machine learning workflow, as detailed in the `m
 
 The CatBoost model showed excellent performance on the test set.
 
+<img width="890" height="375" alt="image" src="https://github.com/user-attachments/assets/924891fb-e289-4fa6-b93b-f244d5ea0b76" />
+
 **Evaluation Metrics**:
 * **Accuracy**: 96.4%
 * **Precision**: 92.2%
